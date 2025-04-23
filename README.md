@@ -1,6 +1,6 @@
-# 📌 Task Manager App – Step 1: Backend Setup (MERN Stack)
+#  Application de gestion des tâches – Étape 1 : Configuration du backend (pile MERN)
 
-This project is part of a full-stack task management application using the **MERN** stack: **MongoDB, Express.js, React, and Node.js**.
+Ce projet fait partie d'une application de gestion des tâches full-stack utilisant la pile **MERN** : **MongoDB, Express.js, React et Node.js**.
 
 ---
 
